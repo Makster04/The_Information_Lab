@@ -1,0 +1,940 @@
+﻿region,Population
+"Aberdeen, SD Micro Area",42287
+"Aberdeen, WA Micro Area",75636
+"Abilene, TX Metro Area",176579
+"Ada, OK Micro Area",38065
+"Adrian, MI Micro Area",99423
+"Aguadilla-Isabela, PR Metro Area",310160
+"Akron, OH Metro Area",702219
+"Alamogordo, NM Micro Area",67839
+"Albany, GA Metro Area",148922
+"Albany-Lebanon, OR Metro Area",128610
+"Albany-Schenectady-Troy, NY Metro Area",899262
+"Albemarle, NC Micro Area",62504
+"Albert Lea, MN Micro Area",30895
+"Albertville, AL Micro Area",97612
+"Albuquerque, NM Metro Area",916528
+"Alexander City, AL Micro Area",51698
+"Alexandria, LA Metro Area",152192
+"Alexandria, MN Micro Area",39006
+"Alice, TX Micro Area",48722
+"Allentown-Bethlehem-Easton, PA-NJ Metro Area",861889
+"Alma, MI Micro Area",41761
+"Alpena, MI Micro Area",28907
+"Altoona, PA Metro Area",122822
+"Altus, OK Micro Area",24785
+"Amarillo, TX Metro Area",268691
+"Americus, GA Micro Area",34163
+"Ames, IA Metro Area",125252
+"Amsterdam, NY Micro Area",49532
+"Anchorage, AK Metro Area",398328
+"Andrews, TX Micro Area",18610
+"Angola, IN Micro Area",34435
+"Ann Arbor, MI Metro Area",372258
+"Anniston-Oxford, AL Metro Area",116441
+"Appleton, WI Metro Area",243147
+"Arcadia, FL Micro Area",33976
+"Ardmore, OK Micro Area",58149
+"Arecibo, PR Metro Area",182705
+"Arkadelphia, AR Micro Area",21446
+"Asheville, NC Metro Area",469015
+"Ashland, OH Micro Area",52447
+"Ashtabula, OH Micro Area",97574
+"Astoria, OR Micro Area",41072
+"Atchison, KS Micro Area",16348
+"Athens, OH Micro Area",62431
+"Athens, TN Micro Area",53276
+"Athens, TX Micro Area",82150
+"Athens-Clarke County, GA Metro Area",215415
+"Atlanta-Sandy Springs-Roswell, GA Metro Area",6089815
+"Atlantic City-Hammonton, NJ Metro Area",274534
+"Atmore, AL Micro Area",36757
+"Auburn, IN Micro Area",43265
+"Auburn, NY Micro Area",76248
+"Auburn-Opelika, AL Metro Area",174241
+"Augusta-Richmond County, GA-SC Metro Area",611000
+"Augusta-Waterville, ME Micro Area",123642
+"Austin, MN Micro Area",40029
+"Austin-Round Rock-San Marcos, TX Metro Area",2283371
+"Bainbridge, GA Micro Area",29367
+"Bakersfield-Delano, CA Metro Area",909235
+"Baltimore-Columbia-Towson, MD Metro Area",2844510
+"Bangor, ME Metro Area",152199
+"Baraboo, WI Micro Area",65763
+"Bardstown, KY Micro Area",46738
+"Barnstable Town, MA Metro Area",228996
+"Barre, VT Micro Area",59807
+"Bartlesville, OK Micro Area",52455
+"Batavia, NY Micro Area",58388
+"Batesville, AR Micro Area",55209
+"Baton Rouge, LA Metro Area",870569
+"Battle Creek, MI Metro Area",134310
+"Bay City, MI Metro Area",103856
+"Bay City, TX Micro Area",36255
+"Beatrice, NE Micro Area",21704
+"Beaumont-Port Arthur, TX Metro Area",397565
+"Beaver Dam, WI Micro Area",89396
+"Beckley, WV Metro Area",115079
+"Bedford, IN Micro Area",45011
+"Beeville, TX Micro Area",31047
+"Bellefontaine, OH Micro Area",46150
+"Bellingham, WA Metro Area",226847
+"Bemidji, MN Micro Area",46228
+"Bend, OR Metro Area",198253
+"Bennettsville, SC Micro Area",26667
+"Bennington, VT Micro Area",37347
+"Berlin, NH Micro Area",31268
+"Big Rapids, MI Micro Area",39714
+"Big Spring, TX Micro Area",34860
+"Big Stone Gap, VA Micro Area",39817
+"Billings, MT Metro Area",184167
+"Binghamton, NY Metro Area",247138
+"Birmingham, AL Metro Area",1115289
+"Bismarck, ND Metro Area",133626
+"Blackfoot, ID Micro Area",47992
+"Blacksburg-Christiansburg-Radford, VA Metro Area",166378
+"Bloomington, IL Metro Area",170954
+"Bloomington, IN Metro Area",161039
+"Bloomsburg-Berwick, PA Metro Area",82863
+"Bluefield, WV-VA Micro Area",106363
+"Bluffton, IN Micro Area",28180
+"Blytheville, AR Micro Area",40685
+"Bogalusa, LA Micro Area",45463
+"Boise City, ID Metro Area",764718
+"Bonham, TX Micro Area",35662
+"Boone, NC Micro Area",54086
+"Borger, TX Micro Area",20617
+"Boston-Cambridge-Newton, MA-NH Metro Area",4941632
+"Boulder, CO Metro Area",330758
+"Bowling Green, KY Metro Area",179639
+"Bozeman, MT Micro Area",118960
+"Bradford, PA Micro Area",40432
+"Brainerd, MN Micro Area",96189
+"Branson, MO Micro Area",56066
+"Breckenridge, CO Micro Area",31055
+"Bremerton-Silverdale-Port Orchard, WA Metro Area",275611
+"Brenham, TX Micro Area",35805
+"Brevard, NC Micro Area",32986
+"Bridgeport-Stamford-Danbury, CT Metro Area",957419
+"Brookhaven, MS Micro Area",34907
+"Brookings, OR Micro Area",23446
+"Brookings, SD Micro Area",34375
+"Brownsville, TN Micro Area",17864
+"Brownsville-Harlingen, TX Metro Area",421017
+"Brownwood, TX Micro Area",38095
+"Brunswick, GA Metro Area",113495
+"Bucyrus-Galion, OH Micro Area",42025
+"Buffalo-Cheektowaga, NY Metro Area",1166902
+"Burley, ID Micro Area",46268
+"Burlington, IA-IL Micro Area",45297
+"Burlington, NC Metro Area",171415
+"Burlington-South Burlington, VT Metro Area",225562
+"Butte-Silver Bow, MT Micro Area",35133
+"Cadillac, MI Micro Area",48725
+"Calhoun, GA Micro Area",57544
+"Lexington Park, MD Metro Area",113777
+"Cambridge, MD Micro Area",32531
+"Cambridge, OH Micro Area",38438
+"Camden, AR Micro Area",27389
+"Campbellsville, KY Micro Area",37130
+"Cañon City, CO Micro Area",48939
+"Canton-Massillon, OH Metro Area",401574
+"Cape Coral-Fort Myers, FL Metro Area",760822
+"Cape Girardeau, MO-IL Metro Area",97517
+"Carbondale-Marion, IL Metro Area",133435
+"Carlsbad-Artesia, NM Micro Area",62314
+"Carroll, IA Micro Area",20760
+"Carson City, NV Metro Area",58639
+"Casper, WY Metro Area",79955
+"Cedar City, UT Micro Area",57289
+"Cedar Rapids, IA Metro Area",276520
+"Cedartown, GA Micro Area",42853
+"Celina, OH Micro Area",42528
+"Central City, KY Micro Area",30928
+"Centralia, IL Micro Area",37729
+"Centralia, WA Micro Area",82149
+"Chambersburg, PA Metro Area",155932
+"Champaign-Urbana, IL Metro Area",222538
+"Charleston, WV Metro Area",258859
+"Charleston-Mattoon, IL Micro Area",57313
+"Charleston-North Charleston, SC Metro Area",799636
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",2660329
+"Charlottesville, VA Metro Area",221524
+"Chattanooga, TN-GA Metro Area",562647
+"Cheyenne, WY Metro Area",100512
+"Chicago-Naperville-Elgin, IL-IN Metro Area",9618502
+"Chico, CA Metro Area",211632
+"Chillicothe, OH Micro Area",77093
+"Cincinnati, OH-KY-IN Metro Area",2256884
+"Clarksburg, WV Micro Area",90434
+"Clarksdale, MS Micro Area",21390
+"Clarksville, TN-KY Metro Area",320535
+"Clearlake, CA Micro Area",68163
+"Cleveland, MS Micro Area",30985
+"Cleveland, TN Metro Area",126164
+"Cleveland-Elyria, OH Metro Area",2088251
+"Clewiston, FL Micro Area",39619
+"Clinton, IA Micro Area",46460
+"Clovis, NM Micro Area",48430
+"Coamo, PR Micro Area",34668
+"Coco, PR Micro Area",25789
+"Coeur d'Alene, ID Metro Area",171362
+"Coffeyville, KS Micro Area",31486
+"Coldwater, MI Micro Area",44862
+"College Station-Bryan, TX Metro Area",268248
+"Colorado Springs, CO Metro Area",755105
+"Columbia, MO Metro Area",210864
+"Columbia, SC Metro Area",829470
+"Columbus, GA-AL Metro Area",328883
+"Columbus, IN Metro Area",82208
+"Columbus, MS Micro Area",58879
+"Columbus, NE Micro Area",34296
+"Columbus, OH Metro Area",2138926
+"Concord, NH Micro Area",153808
+"Connersville, IN Micro Area",23398
+"Cookeville, TN Micro Area",113982
+"Coos Bay, OR Micro Area",64929
+"Cordele, GA Micro Area",20128
+"Corinth, MS Micro Area",34740
+"Cornelia, GA Micro Area",46031
+"Corning, NY Micro Area",93584
+"Corpus Christi, TX Metro Area",421933
+"Corsicana, TX Micro Area",52624
+"Cortland, NY Micro Area",46809
+"Corvallis, OR Metro Area",95184
+"Coshocton, OH Micro Area",36612
+"Craig, CO Micro Area",13292
+"Crawfordsville, IN Micro Area",37936
+"Crescent City, CA Micro Area",27743
+"Crestview-Fort Walton Beach-Destin, FL Metro Area",286973
+"Crossville, TN Micro Area",61145
+"Cullman, AL Micro Area",87866
+"Cullowhee, NC Micro Area",57226
+"Cumberland, MD-WV Metro Area",95044
+"Dallas-Fort Worth-Arlington, TX Metro Area",7637387
+"Dalton, GA Metro Area",142837
+"Danville, IL Metro Area",74188
+"Danville, KY Micro Area",54889
+"Danville, VA Micro Area",103091
+"Daphne-Fairhope-Foley, AL Metro Area",231767
+"Davenport-Moline-Rock Island, IA-IL Metro Area",384324
+"Dayton, TN Micro Area",32870
+"Dayton-Kettering-Beavercreek, OH Metro Area",814049
+"Decatur, AL Metro Area",156494
+"Decatur, IL Metro Area",103998
+"Decatur, IN Micro Area",35809
+"Defiance, OH Micro Area",38286
+"Del Rio, TX Micro Area",47586
+"Deltona-Daytona Beach-Ormond Beach, FL Metro Area",668921
+"Deming, NM Micro Area",25427
+"Denver-Aurora-Centennial, CO Metro Area",2963821
+"DeRidder, LA Micro Area",36549
+"Des Moines-West Des Moines, IA Metro Area",709466
+"Detroit-Warren-Dearborn, MI Metro Area",4392041
+"Dickinson, ND Micro Area",34591
+"Dixon, IL Micro Area",34145
+"Dodge City, KS Micro Area",34287
+"Dothan, AL Metro Area",151007
+"Douglas, GA Micro Area",51378
+"Dover, DE Metro Area",181851
+"Dublin, GA Micro Area",65165
+"DuBois, PA Micro Area",80562
+"Dubuque, IA Metro Area",99266
+"Duluth, MN-WI Metro Area",291638
+"Dumas, TX Micro Area",21358
+"Duncan, OK Micro Area",42848
+"Durango, CO Micro Area",55638
+"Durant, OK Micro Area",46067
+"Durham-Chapel Hill, NC Metro Area",649903
+"Dyersburg, TN Micro Area",36801
+"Eagle Pass, TX Micro Area",57887
+"Easton, MD Micro Area",37526
+"East Stroudsburg, PA Metro Area",168327
+"Eau Claire, WI Metro Area",172007
+"Edwards, CO Micro Area",55731
+"Effingham, IL Micro Area",34668
+"El Campo, TX Micro Area",41570
+"El Centro, CA Metro Area",179702
+"El Dorado, AR Micro Area",39054
+"Elizabeth City, NC Micro Area",53573
+"Elizabethtown-Fort Knox, KY Metro Area",155572
+"Elk City, OK Micro Area",22410
+"Elkhart-Goshen, IN Metro Area",207047
+"Elkins, WV Micro Area",27932
+"Elko, NV Micro Area",55557
+"Ellensburg, WA Micro Area",44337
+"Elmira, NY Metro Area",84148
+"El Paso, TX Metro Area",868859
+"Emporia, KS Micro Area",34751
+"Enid, OK Metro Area",62846
+"Enterprise, AL Micro Area",53465
+"Erie, PA Metro Area",270876
+"Escanaba, MI Micro Area",36903
+"Española, NM Micro Area",40363
+"Eufaula, AL-GA Micro Area",27458
+"Eugene-Springfield, OR Metro Area",382971
+"Eureka-Arcata, CA Micro Area",136463
+"Evanston, WY Micro Area",20450
+"Evansville, IN-KY Metro Area",314049
+"Fairbanks, AK Metro Area",95655
+"Fairfield, IA Micro Area",15663
+"Fairmont, MN Micro Area",20025
+"Fairmont, WV Micro Area",56205
+"Fallon, NV Micro Area",25516
+"Fargo, ND-MN Metro Area",249843
+"Faribault-Northfield, MN Micro Area",67097
+"Farmington, MO Micro Area",66922
+"Farmington, NM Metro Area",121661
+"Fayetteville, NC Metro Area",520378
+"Fayetteville-Springdale-Rogers, AR Metro Area",546725
+"Fergus Falls, MN Micro Area",60081
+"Fernley, NV Micro Area",59235
+"Findlay, OH Micro Area",74920
+"Fitzgerald, GA Micro Area",17194
+"Flagstaff, AZ Metro Area",145101
+"Flint, MI Metro Area",406211
+"Florence, SC Metro Area",199964
+"Florence-Muscle Shoals, AL Metro Area",150791
+"Fond du Lac, WI Metro Area",104154
+"Forest City, NC Micro Area",64444
+"Forrest City, AR Micro Area",23090
+"Fort Collins-Loveland, CO Metro Area",359066
+"Fort Dodge, IA Micro Area",36999
+"Fort Leonard Wood, MO Micro Area",53955
+"Fort Madison-Keokuk, IA-IL-MO Micro Area",57809
+"Fort Morgan, CO Micro Area",29111
+"Fort Payne, AL Micro Area",71608
+"Fort Polk South, LA Micro Area",48750
+"Fort Smith, AR-OK Metro Area",244310
+"Fort Wayne, IN Metro Area",419601
+"Frankfort, IN Micro Area",33190
+"Frankfort, KY Micro Area",75393
+"Fredericksburg, TX Micro Area",26725
+"Freeport, IL Micro Area",44630
+"Fremont, NE Micro Area",37167
+"Fremont, OH Micro Area",58896
+"Fresno, CA Metro Area",1008654
+"Gadsden, AL Metro Area",103436
+"Gaffney, SC Micro Area",56216
+"Gainesville, FL Metro Area",339247
+"Gainesville, GA Metro Area",203136
+"Gainesville, TX Micro Area",41668
+"Galesburg, IL Micro Area",49967
+"Gallup, NM Micro Area",72902
+"Garden City, KS Micro Area",42453
+"Gardnerville Ranchos, NV Micro Area",49488
+"Georgetown, SC Micro Area",63404
+"Gettysburg, PA Metro Area",103852
+"Gillette, WY Micro Area",61045
+"Glasgow, KY Micro Area",54771
+"Glens Falls, NY Metro Area",127039
+"Glenwood Springs, CO Micro Area",79043
+"Gloversville, NY Micro Area",53324
+"Goldsboro, NC Metro Area",117333
+"Granbury, TX Micro Area",61598
+"Grand Forks, ND-MN Metro Area",104362
+"Grand Island, NE Metro Area",77038
+"Grand Junction, CO Metro Area",155703
+"Grand Rapids, MN Micro Area",45014
+"Grand Rapids-Wyoming-Kentwood, MI Metro Area",1087592
+"Grants, NM Micro Area",27172
+"Grants Pass, OR Metro Area",88090
+"Great Bend, KS Micro Area",25493
+"Great Falls, MT Metro Area",84414
+"Greeley, CO Metro Area",328981
+"Green Bay, WI Metro Area",328268
+"Greeneville, TN Micro Area",70152
+"Greensboro-High Point, NC Metro Area",776566
+"Greensburg, IN Micro Area",26472
+"Greenville, MS Micro Area",44922
+"Greenville, NC Metro Area",170243
+"Greenville, OH Micro Area",51881
+"Greenville-Anderson-Greer, SC Metro Area",928195
+"Greenwood, MS Micro Area",38337
+"Greenwood, SC Micro Area",69351
+"Grenada, MS Micro Area",21629
+"Guayama, PR Metro Area",68442
+"Gulfport-Biloxi, MS Metro Area",416259
+"Guymon, OK Micro Area",21384
+"Hagerstown-Martinsburg, MD-WV Metro Area",293844
+"Hailey, ID Micro Area",25349
+"Hammond, LA Metro Area",133157
+"Hanford-Corcoran, CA Metro Area",152486
+"Hannibal, MO Micro Area",38880
+"Harrisburg-Carlisle, PA Metro Area",591712
+"Harrison, AR Micro Area",44598
+"Harrisonburg, VA Metro Area",135571
+"Hartford-West Hartford-East Hartford, CT Metro Area",1213531
+"Hastings, NE Micro Area",31205
+"Hattiesburg, MS Metro Area",172231
+"Hays, KS Micro Area",28934
+"Heber, UT Micro Area",77145
+"Helena, MT Micro Area",83058
+"Helena-West Helena, AR Micro Area",16568
+"Henderson, NC Micro Area",42578
+"Hereford, TX Micro Area",18583
+"Hermiston-Pendleton, OR Micro Area",92261
+"Hickory-Lenoir-Morganton, NC Metro Area",365276
+"Hillsdale, MI Micro Area",45746
+"Hilo-Kailua, HI Micro Area",200629
+"Hilton Head Island-Bluffton-Port Royal, SC Metro Area",215908
+"Hinesville, GA Metro Area",81424
+"Hobbs, NM Micro Area",74455
+"Holland, MI Micro Area",120502
+"Homosassa Springs, FL Metro Area",153843
+"Hood River, OR Micro Area",23977
+"Hope, AR Micro Area",28375
+"Hot Springs, AR Metro Area",100180
+"Houghton, MI Micro Area",39407
+"Houma-Bayou Cane-Thibodaux, LA Metro Area",207137
+"Houston-Pasadena-The Woodlands, TX Metro Area",7122240
+"Hudson, NY Micro Area",61570
+"Huntingdon, PA Micro Area",44092
+"Huntington, IN Micro Area",36662
+"Huntington-Ashland, WV-KY-OH Metro Area",359862
+"Huntsville, AL Metro Area",491723
+"Huntsville, TX Micro Area",76400
+"Huron, SD Micro Area",20812
+"Hutchinson, KS Micro Area",61898
+"Hutchinson, MN Micro Area",36771
+"Idaho Falls, ID Metro Area",157429
+"Indiana, PA Micro Area",83246
+"Indianapolis-Carmel-Greenwood, IN Metro Area",2111040
+"Indianola, MS Micro Area",25971
+"Iowa City, IA Metro Area",175419
+"Iron Mountain, MI-WI Micro Area",30505
+"Ithaca, NY Metro Area",105740
+"Jackson, MI Metro Area",160366
+"Jackson, MS Metro Area",591978
+"Jackson, OH Micro Area",32653
+"Jackson, TN Metro Area",180504
+"Jackson, WY-ID Micro Area",34961
+"Jacksonville, FL Metro Area",1605848
+"Jacksonville, IL Micro Area",37864
+"Jacksonville, NC Metro Area",204576
+"Jacksonville, TX Micro Area",50412
+"Jamestown, ND Micro Area",21593
+"Jamestown-Dunkirk-Fredonia, NY Micro Area",127657
+"Janesville-Beloit, WI Metro Area",163687
+"Jasper, AL Micro Area",65342
+"Jasper, IN Micro Area",55887
+"Jayuya, PR Micro Area",14779
+"Jefferson, GA Micro Area",75907
+"Jefferson City, MO Metro Area",150309
+"Jennings, LA Micro Area",32250
+"Jesup, GA Micro Area",30144
+"Johnson City, TN Metro Area",207285
+"Johnstown, PA Metro Area",133472
+"Jonesboro, AR Metro Area",134196
+"Joplin, MO-KS Metro Area",181409
+"Juneau, AK Micro Area",32255
+"Kahului-Wailuku-Lahaina, HI Metro Area",164754
+"Kalamazoo-Portage, MI Metro Area",261670
+"Kalispell, MT Micro Area",104357
+"Kankakee, IL Metro Area",107502
+"Kansas City, MO-KS Metro Area",2192035
+"Kapaa, HI Micro Area",73298
+"Kearney, NE Micro Area",56772
+"Keene, NH Micro Area",76458
+"Kendallville, IN Micro Area",47457
+"Kennett, MO Micro Area",28283
+"Kennewick-Richland, WA Metro Area",303622
+"Kerrville, TX Micro Area",52598
+"Ketchikan, AK Micro Area",13948
+"Key West, FL Micro Area",82874
+"Kill Devil Hills, NC Micro Area",36915
+"Killeen-Temple, TX Metro Area",475367
+"Kingsport-Bristol, TN-VA Metro Area",307614
+"Kingston, NY Metro Area",181851
+"Kingsville, TX Micro Area",31390
+"Kinston, NC Micro Area",55122
+"Kirksville, MO Micro Area",29346
+"Klamath Falls, OR Micro Area",69413
+"Knoxville, TN Metro Area",879773
+"Kokomo, IN Metro Area",83658
+"Laconia, NH Micro Area",63705
+"La Crosse-Onalaska, WI-MN Metro Area",139627
+"Lafayette, LA Metro Area",478384
+"Lafayette-West Lafayette, IN Metro Area",223716
+"La Grande, OR Micro Area",26196
+"LaGrange, GA-AL Micro Area",104198
+"Lake Charles, LA Metro Area",222402
+"Lake City, FL Micro Area",69698
+"Lake Havasu City-Kingman, AZ Metro Area",213267
+"Lakeland-Winter Haven, FL Metro Area",725046
+"Lamesa, TX Micro Area",12456
+"Lancaster, PA Metro Area",552984
+"Lansing-East Lansing, MI Metro Area",541297
+"Laramie, WY Micro Area",37066
+"Laredo, TX Metro Area",267114
+"Las Cruces, NM Metro Area",219561
+"Las Vegas, NM Micro Area",31390
+"Las Vegas-Henderson-North Las Vegas, NV Metro Area",2265461
+"Laurel, MS Micro Area",83613
+"Laurinburg, NC Micro Area",34174
+"Lawrence, KS Metro Area",118785
+"Lawrenceburg, TN Micro Area",44159
+"Lawton, OK Metro Area",126652
+"Lebanon, MO Micro Area",36039
+"Lebanon-Claremont, NH-VT Micro Area",221211
+"Lebanon, PA Metro Area",143257
+"Levelland, TX Micro Area",21537
+"Lewisburg, PA Micro Area",42681
+"Lewisburg, TN Micro Area",34318
+"Lewiston, ID-WA Metro Area",64375
+"Lewiston-Auburn, ME Metro Area",111139
+"Lewistown, PA Micro Area",46143
+"Lexington, NE Micro Area",26004
+"Lexington-Fayette, KY Metro Area",516811
+"Liberal, KS Micro Area",21964
+"Lima, OH Metro Area",102206
+"Lincoln, IL Micro Area",27987
+"Lincoln, NE Metro Area",340217
+"Little Rock-North Little Rock-Conway, AR Metro Area",748031
+"Lock Haven, PA Micro Area",37450
+"Logan, UT-ID Metro Area",147348
+"Logansport, IN Micro Area",37870
+"London, KY Micro Area",149863
+"Longview, TX Metro Area",286184
+"Longview, WA Metro Area",110730
+"Los Alamos, NM Micro Area",19419
+"Los Angeles-Long Beach-Anaheim, CA Metro Area",13200998
+"Louisville/Jefferson County, KY-IN Metro Area",1285439
+"Lubbock, TX Metro Area",321368
+"Ludington, MI Micro Area",29052
+"Lufkin, TX Micro Area",86395
+"Lumberton, NC Micro Area",116530
+"Lynchburg, VA Metro Area",261593
+"Macomb, IL Micro Area",27238
+"Macon-Bibb County, GA Metro Area",233802
+"Madera, CA Metro Area",156255
+"Madison, IN Micro Area",33147
+"Madison, WI Metro Area",680796
+"Madisonville, KY Micro Area",45423
+"Magnolia, AR Micro Area",22801
+"Malone, NY Micro Area",47555
+"Malvern, AR Micro Area",33040
+"Manchester-Nashua, NH Metro Area",422937
+"Manhattan, KS Metro Area",134046
+"Manitowoc, WI Micro Area",81359
+"Mankato, MN Metro Area",103566
+"Mansfield, OH Metro Area",124936
+"Marietta, OH Micro Area",59771
+"Marinette, WI-MI Micro Area",65374
+"Marion, IN Micro Area",66674
+"Marion, NC Micro Area",44578
+"Marion, OH Micro Area",65359
+"Marquette, MI Micro Area",66017
+"Marshall, MN Micro Area",25269
+"Marshall, MO Micro Area",23333
+"Marshalltown, IA Micro Area",40105
+"Martin, TN Micro Area",32902
+"Martinsville, VA Micro Area",64433
+"Maryville, MO Micro Area",21241
+"Mason City, IA Micro Area",50570
+"Mayagüez, PR Metro Area",97605
+"Mayfield, KY Micro Area",36649
+"Maysville, KY Micro Area",17120
+"McAlester, OK Micro Area",43773
+"McAllen-Edinburg-Mission, TX Metro Area",870781
+"McComb, MS Micro Area",40324
+"McMinnville, TN Micro Area",40953
+"McPherson, KS Micro Area",30223
+"Meadville, PA Micro Area",83938
+"Medford, OR Metro Area",223259
+"Memphis, TN-MS-AR Metro Area",1337779
+"Menomonie, WI Micro Area",45440
+"Merced, CA Metro Area",281202
+"Meridian, MS Micro Area",97587
+"Mexico, MO Micro Area",24962
+"Miami, OK Micro Area",30285
+"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area",6138333
+"Michigan City-La Porte, IN Metro Area",112417
+"Middlesborough, KY Micro Area",24097
+"Midland, MI Metro Area",83494
+"Midland, TX Metro Area",175220
+"Milledgeville, GA Micro Area",52534
+"Milwaukee-Waukesha, WI Metro Area",1574731
+"Minden, LA Micro Area",36967
+"Mineral Wells, TX Micro Area",28409
+"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area",3690261
+"Minot, ND Micro Area",77546
+"Missoula, MT Metro Area",117922
+"Mitchell, SD Micro Area",23417
+"Moberly, MO Micro Area",24716
+"Mobile, AL Metro Area",430197
+"Modesto, CA Metro Area",552878
+"Monroe, LA Metro Area",207104
+"Monroe, MI Metro Area",154809
+"Montgomery, AL Metro Area",386047
+"Montrose, CO Micro Area",47553
+"Morehead City, NC Micro Area",67686
+"Morgan City, LA Micro Area",49406
+"Morgantown, WV Metro Area",140038
+"Morristown, TN Metro Area",142709
+"Moscow, ID Micro Area",39517
+"Moses Lake, WA Micro Area",99123
+"Moultrie, GA Micro Area",45898
+"Mountain Home, AR Micro Area",41627
+"Mountain Home, ID Micro Area",28666
+"Mount Airy, NC Micro Area",71359
+"Mount Gay-Shamrock, WV Micro Area",32567
+"Mount Pleasant, MI Micro Area",64394
+"Mount Pleasant, TX Micro Area",43711
+"Mount Sterling, KY Micro Area",46977
+"Mount Vernon, IL Micro Area",37113
+"Mount Vernon, OH Micro Area",62721
+"Mount Vernon-Anacortes, WA Metro Area",129523
+"Muncie, IN Metro Area",111903
+"Murray, KY Micro Area",37103
+"Muscatine, IA Micro Area",43235
+"Muskegon-Norton Shores, MI Metro Area",175824
+"Muskogee, OK Micro Area",66339
+"Myrtle Beach-Conway-North Myrtle Beach, SC Metro Area",487722
+"Nacogdoches, TX Micro Area",64653
+"Napa, CA Metro Area",138019
+"Naples-Marco Island, FL Metro Area",375752
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",1989519
+"Natchez, MS-LA Micro Area",48225
+"Natchitoches, LA Micro Area",37515
+"New Bern, NC Metro Area",122168
+"Newberry, SC Micro Area",37719
+"New Castle, IN Micro Area",48914
+"New Castle, PA Micro Area",86070
+"New Haven-Milford, CT Metro Area",864835
+"New Orleans-Metairie, LA Metro Area",1271845
+"New Philadelphia-Dover, OH Micro Area",93263
+"Newport, OR Micro Area",50395
+"Newport, TN Micro Area",35999
+"New Ulm, MN Micro Area",25912
+"New York-Newark-Jersey City, NY-NJ Metro Area",20140470
+"Niles, MI Metro Area",154316
+"Nogales, AZ Micro Area",47669
+"Norfolk, NE Micro Area",48744
+"North Platte, NE Micro Area",35791
+"North Port-Bradenton-Sarasota, FL Metro Area",833716
+"North Vernon, IN Micro Area",27613
+"North Wilkesboro, NC Micro Area",65969
+"Norwalk, OH Micro Area",58565
+"Norwich-New London-Willimantic, CT Metro Area",268555
+"Oak Harbor, WA Micro Area",86857
+"Ocala, FL Metro Area",375908
+"Ocean City, NJ Metro Area",95263
+"Odessa, TX Metro Area",165171
+"Ogden-Clearfield, UT Metro Area",694863
+"Ogdensburg-Massena, NY Micro Area",108505
+"Oil City, PA Micro Area",50454
+"Okeechobee, FL Micro Area",39644
+"Oklahoma City, OK Metro Area",1425695
+"Olean, NY Micro Area",77042
+"Olympia-Lacey-Tumwater, WA Metro Area",294793
+"Omaha-Council Bluffs, NE-IA Metro Area",967604
+"Oneonta, NY Micro Area",58524
+"Ontario, OR-ID Micro Area",56957
+"Opelousas, LA Micro Area",82540
+"Orangeburg, SC Micro Area",84223
+"Orlando-Kissimmee-Sanford, FL Metro Area",2673376
+"Oshkosh-Neenah, WI Metro Area",171730
+"Oskaloosa, IA Micro Area",22190
+"Othello, WA Micro Area",20613
+"Ottawa, IL Micro Area",148539
+"Ottawa, KS Micro Area",25996
+"Ottumwa, IA Micro Area",35437
+"Owatonna, MN Micro Area",37406
+"Owensboro, KY Metro Area",121559
+"Oxford, MS Micro Area",55813
+"Oxnard-Thousand Oaks-Ventura, CA Metro Area",843843
+"Ozark, AL Micro Area",49326
+"Paducah, KY-IL Micro Area",98660
+"Pahrump, NV Micro Area",51591
+"Palatka, FL Micro Area",73321
+"Palestine, TX Micro Area",57922
+"Palm Bay-Melbourne-Titusville, FL Metro Area",606612
+"Pampa, TX Micro Area",22054
+"Panama City-Panama City Beach, FL Metro Area",175216
+"Paragould, AR Micro Area",45736
+"Paris, TN Micro Area",32199
+"Paris, TX Micro Area",50088
+"Parkersburg-Vienna, WV Metro Area",89490
+"Parsons, KS Micro Area",20184
+"Payson, AZ Micro Area",53272
+"Pearsall, TX Micro Area",18385
+"Pecos, TX Micro Area",14812
+"Pella, IA Micro Area",33414
+"Pensacola-Ferry Pass-Brent, FL Metro Area",509905
+"Peoria, IL Metro Area",402391
+"Peru, IN Micro Area",35962
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area",6245051
+"Phoenix-Mesa-Chandler, AZ Metro Area",4845832
+"Picayune, MS Micro Area",56145
+"Pierre, SD Micro Area",20745
+"Pine Bluff, AR Metro Area",87751
+"Pinehurst-Southern Pines, NC Micro Area",99727
+"Pittsburg, KS Micro Area",38972
+"Pittsburgh, PA Metro Area",2370930
+"Pittsfield, MA Metro Area",129026
+"Plainview, TX Micro Area",32522
+"Platteville, WI Micro Area",51938
+"Plattsburgh, NY Micro Area",79843
+"Plymouth, IN Micro Area",46095
+"Pocatello, ID Metro Area",94896
+"Point Pleasant, WV-OH Micro Area",54673
+"Ponca City, OK Micro Area",43700
+"Ponce, PR Metro Area",224142
+"Pontiac, IL Micro Area",35815
+"Poplar Bluff, MO Micro Area",52809
+"Portales, NM Micro Area",19191
+"Port Angeles, WA Micro Area",77155
+"Portland-South Portland, ME Metro Area",551740
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",2512859
+"Port Lavaca, TX Micro Area",20106
+"Port St. Lucie, FL Metro Area",487657
+"Portsmouth, OH Micro Area",74008
+"Pottsville, PA Micro Area",143049
+"Kiryas Joel-Poughkeepsie-Newburgh, NY Metro Area",697221
+"Prescott Valley-Prescott, AZ Metro Area",236209
+"Price, UT Micro Area",20412
+"Prineville, OR Micro Area",24738
+"Providence-Warwick, RI-MA Metro Area",1676579
+"Provo-Orem-Lehi, UT Metro Area",671185
+"Pueblo, CO Metro Area",168162
+"Pullman, WA Micro Area",47973
+"Punta Gorda, FL Metro Area",186847
+"Quincy, IL-MO Micro Area",75769
+"Racine-Mount Pleasant, WI Metro Area",197727
+"Raleigh-Cary, NC Metro Area",1413982
+"Rapid City, SD Metro Area",139074
+"Raymondville, TX Micro Area",20164
+"Reading, PA Metro Area",428849
+"Red Bluff, CA Micro Area",65829
+"Redding, CA Metro Area",182155
+"Red Wing, MN Micro Area",47582
+"Reno, NV Metro Area",490596
+"Rexburg, ID Micro Area",66301
+"Richmond, IN Micro Area",66553
+"Richmond, VA Metro Area",1314434
+"Richmond-Berea, KY Micro Area",106864
+"Rio Grande City-Roma, TX Micro Area",65920
+"Riverside-San Bernardino-Ontario, CA Metro Area",4599839
+"Riverton, WY Micro Area",39234
+"Roanoke, VA Metro Area",315251
+"Roanoke Rapids, NC Micro Area",66093
+"Rochelle, IL Micro Area",51788
+"Rochester, MN Metro Area",226329
+"Rochester, NY Metro Area",1090135
+"Rockford, IL Metro Area",338798
+"Rockingham, NC Micro Area",42946
+"Rockport, TX Micro Area",23830
+"Rock Springs, WY Micro Area",42272
+"Rocky Mount, NC Metro Area",143870
+"Rolla, MO Micro Area",44638
+"Rome, GA Metro Area",98584
+"Roseburg, OR Micro Area",111201
+"Roswell, NM Micro Area",65157
+"Ruidoso, NM Micro Area",20269
+"Russellville, AR Micro Area",83644
+"Ruston, LA Micro Area",48396
+"Rutland, VT Micro Area",60572
+"Sacramento-Roseville-Folsom, CA Metro Area",2397382
+"Safford, AZ Micro Area",38533
+"Saginaw, MI Metro Area",190124
+"St. Cloud, MN Metro Area",199671
+"St. George, UT Metro Area",180279
+"St. Joseph, MO-KS Metro Area",121467
+"St. Louis, MO-IL Metro Area",2820253
+"St. Marys, GA Micro Area",54768
+"St. Marys, PA Micro Area",30990
+"Salem, OH Micro Area",101877
+"Salem, OR Metro Area",433353
+"Salina, KS Micro Area",60038
+"Salinas, CA Metro Area",439035
+"Salisbury, MD-DE Metro Area",418046
+"Salt Lake City-Murray, UT Metro Area",1257936
+"San Angelo, TX Metro Area",122888
+"San Antonio-New Braunfels, TX Metro Area",2558143
+"San Diego-Chula Vista-Carlsbad, CA Metro Area",3298634
+"Sandpoint, ID Micro Area",47110
+"Sandusky, OH Micro Area",75622
+"Sanford, NC Micro Area",63285
+"San Francisco-Oakland-Fremont, CA Metro Area",4749008
+"San Germán, PR Metro Area",125100
+"San Jose-Sunnyvale-Santa Clara, CA Metro Area",2000468
+"San Juan-Bayamón-Caguas, PR Metro Area",2081265
+"San Luis Obispo-Paso Robles, CA Metro Area",282424
+"Santa Cruz-Watsonville, CA Metro Area",270861
+"Santa Fe, NM Metro Area",154823
+"Santa Isabel, PR Micro Area",20281
+"Santa Maria-Santa Barbara, CA Metro Area",448229
+"Santa Rosa-Petaluma, CA Metro Area",488863
+"Sault Ste. Marie, MI Micro Area",36785
+"Savannah, GA Metro Area",404798
+"Sayre, PA Micro Area",59967
+"Scottsbluff, NE Micro Area",37893
+"Scottsboro, AL Micro Area",52579
+"Scottsburg, IN Micro Area",24384
+"Scranton--Wilkes-Barre, PA Metro Area",567559
+"Searcy, AR Micro Area",76822
+"Seattle-Tacoma-Bellevue, WA Metro Area",4018762
+"Sebastian-Vero Beach-West Vero Corridor, FL Metro Area",159788
+"Sebring-Avon Park, FL Metro Area",101235
+"Sedalia, MO Micro Area",42980
+"Selinsgrove, PA Micro Area",39736
+"Selma, AL Micro Area",38462
+"Seneca, SC Micro Area",78607
+"Seneca Falls, NY Micro Area",33814
+"Sevierville, TN Micro Area",98380
+"Seymour, IN Micro Area",46428
+"Shawano, WI Micro Area",45136
+"Shawnee, OK Micro Area",72454
+"Sheboygan, WI Metro Area",118034
+"Shelby, NC Micro Area",99519
+"Shelbyville, TN Micro Area",50237
+"Shelton, WA Micro Area",65726
+"Sheridan, WY Micro Area",30921
+"Sherman-Denison, TX Metro Area",135543
+"Show Low, AZ Micro Area",106717
+"Shreveport-Bossier City, LA Metro Area",393406
+"Sidney, OH Micro Area",48230
+"Sierra Vista-Douglas, AZ Metro Area",125447
+"Sikeston, MO Micro Area",38059
+"Silver City, NM Micro Area",28185
+"Sioux City, IA-NE-SD Metro Area",149940
+"Sioux Falls, SD-MN Metro Area",276730
+"Snyder, TX Micro Area",16932
+"Somerset, KY Micro Area",65034
+"Somerset, PA Micro Area",74129
+"Sonora, CA Micro Area",55620
+"South Bend-Mishawaka, IN-MI Metro Area",324501
+"Spartanburg, SC Metro Area",327997
+"Spearfish, SD Micro Area",25768
+"Spencer, IA Micro Area",16384
+"Spirit Lake, IA Micro Area",17703
+"Spokane-Spokane Valley, WA Metro Area",585784
+"Springfield, IL Metro Area",208640
+"Springfield, MA Metro Area",699162
+"Springfield, MO Metro Area",475432
+"Springfield, OH Metro Area",136001
+"Starkville, MS Micro Area",61714
+"State College, PA Metro Area",158172
+"Statesboro, GA Micro Area",81099
+"Staunton, VA Metro Area",125433
+"Steamboat Springs, CO Micro Area",24829
+"Stephenville, TX Micro Area",42545
+"Sterling, CO Micro Area",21528
+"Sterling, IL Micro Area",55691
+"Stevens Point, WI Micro Area",70377
+"Stillwater, OK Micro Area",81646
+"Stockton-Lodi, CA Metro Area",779233
+"Storm Lake, IA Micro Area",20823
+"Sturgis, MI Micro Area",60939
+"Sulphur Springs, TX Micro Area",36787
+"Summerville, GA Micro Area",24965
+"Sumter, SC Metro Area",136700
+"Sunbury, PA Micro Area",91647
+"Susanville, CA Micro Area",32730
+"Sweetwater, TX Micro Area",14738
+"Syracuse, NY Metro Area",662057
+"Tahlequah, OK Micro Area",47078
+"Talladega-Sylacauga, AL Micro Area",82149
+"Tallahassee, FL Metro Area",384298
+"Tampa-St. Petersburg-Clearwater, FL Metro Area",3175275
+"Taos, NM Micro Area",34489
+"Taylorville, IL Micro Area",34032
+"Terre Haute, IN Metro Area",185031
+"Texarkana, TX-AR Metro Area",147519
+"The Dalles, OR Micro Area",26670
+"Wildwood-The Villages, FL Metro Area",129752
+"Thomaston, GA Micro Area",27700
+"Thomasville, GA Micro Area",45798
+"Tiffin, OH Micro Area",55069
+"Tifton, GA Micro Area",41344
+"Toccoa, GA Micro Area",26784
+"Toledo, OH Metro Area",646604
+"Topeka, KS Metro Area",233152
+"Torrington, CT Micro Area",185186
+"Traverse City, MI Micro Area",153448
+"Trenton-Princeton, NJ Metro Area",387340
+"Troy, AL Micro Area",33009
+"Truckee-Grass Valley, CA Micro Area",102241
+"Tucson, AZ Metro Area",1043433
+"Tullahoma-Manchester, TN Micro Area",107124
+"Tulsa, OK Metro Area",1015331
+"Tupelo, MS Micro Area",163398
+"Tuscaloosa, AL Metro Area",268674
+"Twin Falls, ID Metro Area",114283
+"Tyler, TX Metro Area",233479
+"Ukiah, CA Micro Area",91601
+"Union, SC Micro Area",27244
+"Union City, TN Micro Area",30787
+"Urbana, OH Micro Area",38714
+"Urban Honolulu, HI Metro Area",1016508
+"Utica-Rome, NY Metro Area",292264
+"Uvalde, TX Micro Area",24564
+"Valdosta, GA Metro Area",148126
+"Vallejo, CA Metro Area",453491
+"Van Wert, OH Micro Area",28931
+"Vermillion, SD Micro Area",14967
+"Vernal, UT Micro Area",35620
+"Vernon, TX Micro Area",12887
+"Vicksburg, MS Micro Area",44722
+"Victoria, TX Metro Area",98331
+"Vidalia, GA Micro Area",35640
+"Vincennes, IN Micro Area",36282
+"Vineland-Bridgeton, NJ Metro Area",154152
+"Vineyard Haven, MA Micro Area",20600
+"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area",1799674
+"Visalia, CA Metro Area",473117
+"Wabash, IN Micro Area",30976
+"Waco, TX Metro Area",277547
+"Wahpeton, ND-MN Micro Area",23035
+"Walla Walla, WA Metro Area",62584
+"Wapakoneta, OH Micro Area",46422
+"Warner Robins, GA Metro Area",191614
+"Warren, PA Micro Area",38587
+"Warrensburg, MO Micro Area",54013
+"Warsaw, IN Micro Area",80240
+"Washington, IN Micro Area",33381
+"Washington, NC Micro Area",44652
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",6385162
+"Washington Court House, OH Micro Area",28951
+"Waterloo-Cedar Falls, IA Metro Area",168461
+"Watertown, SD Micro Area",34489
+"Watertown-Fort Atkinson, WI Micro Area",84900
+"Watertown-Fort Drum, NY Metro Area",116721
+"Wauchula, FL Micro Area",25327
+"Wausau, WI Metro Area",166428
+"Waycross, GA Micro Area",55967
+"Weatherford, OK Micro Area",28513
+"Weirton-Steubenville, WV-OH Metro Area",116903
+"Wenatchee, WA Metro Area",122012
+"West Plains, MO Micro Area",39750
+"West Point, MS Micro Area",18636
+"Wheeling, WV-OH Metro Area",139513
+"Whitewater, WI Micro Area",106478
+"Wichita, KS Metro Area",647610
+"Wichita Falls, TX Metro Area",148128
+"Williamsport, PA Metro Area",114188
+"Williston, ND Micro Area",40950
+"Willmar, MN Micro Area",43732
+"Wilmington, NC Metro Area",285905
+"Wilmington, OH Micro Area",42018
+"Wilson, NC Micro Area",78784
+"Winchester, VA-WV Metro Area",142632
+"Winfield, KS Micro Area",34549
+"Winnemucca, NV Micro Area",17285
+"Winona, MN Micro Area",49671
+"Winston-Salem, NC Metro Area",675966
+"Wisconsin Rapids-Marshfield, WI Micro Area",74207
+"Woodward, OK Micro Area",24219
+"Wooster, OH Micro Area",116894
+"Worcester, MA Metro Area",978529
+"Worthington, MN Micro Area",22290
+"Yakima, WA Metro Area",256728
+"Yankton, SD Micro Area",23310
+"Yauco, PR Metro Area",86142
+"York-Hanover, PA Metro Area",456438
+"Youngstown-Warren, OH Metro Area",541243
+"Yuba City, CA Metro Area",181208
+"Yuma, AZ Metro Area",203881
+"Zanesville, OH Micro Area",86410
+"Zapata, TX Micro Area",13889
